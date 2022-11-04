@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/10 14:03:56.000.857,=C:\Users\felip\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:03:07.000.863,=C:\Users\felip\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:13:42.000.804,=C:\Users\felip\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 13:13:33.000.580,=C:\Users\felip\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 13:14:15.000.103,C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Views\View.UnPedidos.dfm=C:\Users\felip\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/10/12 13:14:15.000.103,C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Views\View.UnPedidos.pas=C:\Users\felip\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 13:14:35.000.087,C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\WKTechnology.dproj=C:\Users\felip\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/12 13:15:59.000.898,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Model.dao\Model.Dao.Conexao.pas</Transaction>
+    <Transaction>2022/10/12 13:17:08.000.615,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Model\Model.Pedidos.pas</Transaction>
+    <Transaction>2022/10/12 13:17:23.000.091,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Model.dao\Model.Dao.Pedidos.pas</Transaction>
+    <Transaction>2022/10/12 13:18:04.000.782,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Controller\Controller.Control.pas</Transaction>
+    <Transaction>2022/10/12 13:25:17.000.492,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 13:25:33.000.688,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 13:26:00.000.288,C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Model\Model.PedidosProdutos.pas=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 13:36:58.000.690,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 13:38:07.000.424,C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Model.dao\Model.Dao.PedidosProdutos.pas=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 19:39:21.000.201,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Model.dao\Model.Acao.pas</Transaction>
+    <Transaction>2022/10/13 09:03:53.000.133,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 09:04:18.000.636,C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Model\Model.Clientes.pas=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 09:10:15.000.982,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 09:10:31.000.028,C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Model.dao\Model.Dao.Clientes.pas=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 09:27:16.000.777,=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+    <Transaction>2022/10/13 09:27:33.000.658,C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\SRC\Controller\Controller.Cliente.pas=C:\Arquivos_de_trabalho\Testes_empresas\WKTechnology\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
